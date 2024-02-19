@@ -1,0 +1,8 @@
+# Ignore node_modules directory in all subfolders
+**/node_modules/
+
+# Ignore npm debug log in all subfolders
+**/npm-debug.log
+
+# Ignore .env file in all subfolders if you use environment variables
+**/.env
